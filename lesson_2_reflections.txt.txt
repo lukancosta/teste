@@ -10,3 +10,5 @@ A area de preparação é um intermediario onde vc escolhe quais arquivos terão com
 #Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
 
 Comparando ele com o commit que foi feito anteriormente
+
+branch add
