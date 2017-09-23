@@ -10,3 +10,7 @@ A area de preparação é um intermediario onde vc escolhe quais arquivos terão com
 #Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
 
 Comparando ele com o commit que foi feito anteriormente
+
+#Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
+
+Pra cirarr versões com funcionalides adicionais ou fazer testes
