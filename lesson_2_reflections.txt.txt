@@ -11,6 +11,11 @@ A area de preparação é um intermediario onde vc escolhe quais arquivos terão com
 
 Comparando ele com o commit que foi feito anteriormente
 
+
+****Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
+
+Vc terá um arquivo com as partes dos 2 branches
+
 #Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
 
 Pra cirarr versões com funcionalides adicionais ou fazer testes
@@ -22,3 +27,8 @@ Ajudam a ver a relação entre eles
 FINAl ---> Quais são os prós e contras da mesclagem automática do Git v. sempre fazer mesclagens manualmente?
 
 A vantagem é que economiza tempo, a devantagem é que pode ser que aconteça erros 
+
+branch add
+
+
+
