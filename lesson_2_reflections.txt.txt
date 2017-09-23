@@ -12,3 +12,8 @@ A area de preparação é um intermediario onde vc escolhe quais arquivos terão com
 Comparando ele com o commit que foi feito anteriormente
 
 branch add
+
+
+****Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
+
+Vc terá um arquivo com as partes dos 2 branches
