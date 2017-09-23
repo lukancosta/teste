@@ -18,3 +18,7 @@ Pra cirarr versões com funcionalides adicionais ou fazer testes
 #Como os diagramas ajudam a visualizar a estrutura de branches?
 
 Ajudam a ver a relação entre eles
+
+FINAl ---> Quais são os prós e contras da mesclagem automática do Git v. sempre fazer mesclagens manualmente?
+
+A vantagem é que economiza tempo, a devantagem é que pode ser que aconteça erros 
