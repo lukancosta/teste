@@ -1,0 +1,3 @@
+Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
+
+Quando quero fazer um projeto com mais de um colaborador ou quando tenho necessidade de acessar o arquivo em mais de um computador
