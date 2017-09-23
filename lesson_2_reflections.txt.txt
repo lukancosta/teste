@@ -1,34 +1,34 @@
 
-#O que acontece ao iniciar um repositÛrio? Por que vocÍ precisa fazer isso?
+#O que acontece ao iniciar um reposit√≥rio? Por que voc√™ precisa fazer isso?
 
-Ao criar um  novo repositorio foi criado um diretorio oculto do Git. Com isso as versıes ficam salvas l·
+Ao criar um  novo repositorio foi criado um diretorio oculto do Git. Com isso as vers√µes ficam salvas l√°
 
-#Em que se difere a ·rea de preparaÁ„o do diretÛrio de trabalho e do repositÛrio? Qual valor vocÍ acha que ela oferece?
+#Em que se difere a √°rea de prepara√ß√£o do diret√≥rio de trabalho e do reposit√≥rio? Qual valor voc√™ acha que ela oferece?
 
-A area de preparaÁ„o È um intermediario onde vc escolhe quais arquivos ter„o commit
+A area de prepara√ß√£o √© um intermediario onde vc escolhe quais arquivos ter√£o commit
 
-#Como vocÍ pode usar a ·rea de preparaÁ„o para garantir que tenha um commit por alteraÁ„o lÛgica?
+#Como voc√™ pode usar a √°rea de prepara√ß√£o para garantir que tenha um commit por altera√ß√£o l√≥gica?
 
 Comparando ele com o commit que foi feito anteriormente
 
 
-****Qual È o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
+****Qual √© o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
 
-Vc ter· um arquivo com as partes dos 2 branches
+Vc ter√° um arquivo com as partes dos 2 branches
 
-#Quais s„o algumas das situaÁıes em que branches seriam ˙teis para manter seu histÛrico organizado? Como branches ajudariam?
+#Quais s√£o algumas das situa√ß√µes em que branches seriam √∫teis para manter seu hist√≥rico organizado? Como branches ajudariam?
 
-Pra cirarr versıes com funcionalides adicionais ou fazer testes
+Pra cirarr vers√µes com funcionalides adicionais ou fazer testes
 
 #Como os diagramas ajudam a visualizar a estrutura de branches?
 
-Ajudam a ver a relaÁ„o entre eles
+Ajudam a ver a rela√ß√£o entre eles
 
-FINAl ---> Quais s„o os prÛs e contras da mesclagem autom·tica do Git v. sempre fazer mesclagens manualmente?
+FINAl ---> Quais s√£o os pr√≥s e contras da mesclagem autom√°tica do Git v. sempre fazer mesclagens manualmente?
 
-A vantagem È que economiza tempo, a devantagem È que pode ser que aconteÁa erros 
+A vantagem √© que economiza tempo, a devantagem √© que pode ser que aconte√ßa erros 
 
 branch add
 
 
-
+nmera√ß√£o louca 128577383
