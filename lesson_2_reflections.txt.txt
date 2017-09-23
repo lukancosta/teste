@@ -14,3 +14,7 @@ Comparando ele com o commit que foi feito anteriormente
 #Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
 
 Pra cirarr versões com funcionalides adicionais ou fazer testes
+
+#Como os diagramas ajudam a visualizar a estrutura de branches?
+
+Ajudam a ver a relação entre eles
